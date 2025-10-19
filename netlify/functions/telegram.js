@@ -1,6 +1,6 @@
 const fetch = require("node-fetch");
 
-const TOKEN = "8300548820:AAFoWpI6MYPptp_mphQjU-yoN_Raq81cpzo";
+const TOKEN = "8404415280:AAGvc7OvMZvXP88c7s48S_BK4uEIl_gTHH4";
 const TELEGRAM_API = `https://api.telegram.org/bot${TOKEN}`;
 
 exports.handler = async (event) => {
